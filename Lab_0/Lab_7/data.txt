@@ -1,0 +1,10 @@
+S 1 John Doe 3.6
+S 2 Luke Adams 2
+S 3 Liam Ethan 4
+E 4 Wade Dave 2500
+E 5 Seth Ivan 3000
+E 6 Riley Gilbert 1800
+P 7 Glen Harvey 4500 1 1
+P 8 Blake Antonio 4000 0 2
+P 9 Peter Eli 3800 0 3
+P 10 John Siri 2500 1 1
