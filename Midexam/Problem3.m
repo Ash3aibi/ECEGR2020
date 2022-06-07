@@ -1,0 +1,1 @@
+A = [zeros(2,1) ones(2,4); zeros(3,2) eye(3)+3; zeros(1,5); [1:5].^2]
